@@ -1,2 +1,2 @@
 # Spittr
-hello word for springmvc
+hello world for springmvc with thymeleaf.
